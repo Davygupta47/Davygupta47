@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=999&color=6A90F7&background=97CAF74E&multiline=true&width=435&lines=Machine+learning+engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=999&color=6A90F7&background=97CAF74E&multiline=true&width=435&lines=Machine+learning+Engineer!!" alt="Typing SVG" />
 </br>
 </br>
 </h3>
