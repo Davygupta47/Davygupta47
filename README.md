@@ -88,21 +88,21 @@ me.say_hi()
 <div align="center">
 
 <!-- GitHub Stats -->
-<a href="https://github.com/Rupayan2005/github-readme-stats">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rupayan2005&show_icons=true&theme=highcontrast&locale=en" alt="GitHub Stats" />
+<a href="https://github.com/Davygupta47/github-readme-stats">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Davygupta47&show_icons=true&theme=highcontrast&locale=en" alt="GitHub Stats" />
 </a>
 
 <!-- Top Languages -->
-<a href="https://github.com/Rupayan2005/github-readme-stats">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupayan2005&layout=compact&theme=highcontrast&locale=en" alt="Top Languages" />
+<a href="https://github.com/Davygupta47/github-readme-stats">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davygupta47&layout=compact&theme=highcontrast&locale=en" alt="Top Languages" />
 </a>
 
 <!-- Most Used Languages by Commit -->
 <a href="https://github.com/Rupayan2005/github-readme-stats">
-  <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rupayan2005&theme=highcontrast" alt="Most Used Languages by Commit" />
+  <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Davygupta47&theme=highcontrast" alt="Most Used Languages by Commit" />
 </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupayan2005&theme=github_dark" alt="Github Streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Davygupta47&theme=github_dark" alt="Github Streak" /></p>
 </br>
 </div>
 
@@ -114,7 +114,7 @@ me.say_hi()
 
 ## 🎖️ GitHub Wall of Fame
 <div align="center">
-<img src="https://github-trophies.vercel.app/?username=rupayan2005&theme=radical" alt="Github Trophies" />
+<img src="https://github-trophies.vercel.app/?username=Davygupta47&theme=radical" alt="Github Trophies" />
 </div>
 
 ## 🎪 Fun Facts
@@ -129,7 +129,7 @@ me.say_hi()
 <h3 align="left">📬 Let's Connect!</h3>
 <p align="left">
 </br>
-<a href="https://linkedin.com/in/rupayan auddya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupayan auddya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dwaipayan-dasgupta-b97b38319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dwaipayan Dasgupta" height="30" width="40" /></a>
 </p>
 
 </br>
@@ -150,7 +150,7 @@ me.say_hi()
 
 *Let's turn ideas into reality!*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=rupayan2005&color=blueviolet&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=Davygupta47&color=blueviolet&style=flat-square)
 
 </div>
 
