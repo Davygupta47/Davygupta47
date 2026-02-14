@@ -50,7 +50,7 @@ me.say_hi()
 <h3 align="left">🧑‍💻⚙️ Languages & Tools</h3>
 </br>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,r,js,ts,html,css,react,nextjs,vite,tailwind,express,nodejs,mongodb,postgres,mysql,sklearn,tensorflow,pytorch,opencv,npm,yarn,docker,fastapi,postman,git,github,md,gcp,firebase,vscode,pycharm,androidstudio&perline=18" />    
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,r,js,ts,ruby,html,css,react,nextjs,vite,tailwind,express,nodejs,mongodb,postgres,mysql,sklearn,tensorflow,pytorch,opencv,npm,yarn,docker,kubernetes,fastapi,postman,git,github,md,gcp,firebase,vscode,pycharm&perline=18" />    
 </a>
 
 ## 🎯 Current Mission
@@ -69,19 +69,6 @@ me.say_hi()
 - 🎬 **Movie Buff**: Analyzing stories and cinematography
 - 📚 **Perpetual Learner**: Always adapting to new concepts and technologies
 - 🧩 **Problem Solver**: Finding elegant solutions to complex challenges
-
-
-## 🎨 Portfolio
-
-✨ Ready to see creativity meet code? Dive into my digital showcase below!
-
-<div align="center">
-</br>
-
-[![🚀 Explore Portfolio](https://img.shields.io/badge/🚀_Explore_Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-37z9.vercel.app/)
-
-</div>
-
 
 ## 📊 GitHub Analytics
 
