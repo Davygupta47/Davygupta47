@@ -110,7 +110,7 @@ me.say_hi()
 
 ## 📈 GitHub Activity Timeline
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=rupayan2005&bg_color=0d1117,0d1117,000000&color=00ffcc&line=00ffe4&point=ffff00&area=true&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Davygupta47&bg_color=0d1117,0d1117,000000&color=00ffcc&line=00ffe4&point=ffff00&area=true&hide_border=true)
 
 ## 🎖️ GitHub Wall of Fame
 <div align="center">
