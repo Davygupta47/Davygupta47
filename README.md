@@ -50,7 +50,7 @@ me.say_hi()
 <h3 align="left">🧑‍💻⚙️ Languages & Tools</h3>
 </br>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,r,js,ts,ruby,html,css,react,nextjs,vite,tailwind,express,nodejs,mongodb,postgres,mysql,sklearn,tensorflow,pytorch,opencv,langgraph,docker,kubernetes,fastapi,postman,git,github,md,gcp,firebase,redis,vscode,pycharm&perline=18" />    
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,r,js,ts,ruby,html,css,react,nextjs,vite,tailwind,express,nodejs,mongodb,postgres,mysql,sklearn,tensorflow,pytorch,opencv,docker,kubernetes,fastapi,postman,git,github,md,gcp,firebase,redis,vscode,pycharm&perline=18" />    
 </a>
 
 ## 🎯 Current Mission
@@ -85,7 +85,7 @@ me.say_hi()
 </a>
 
 <!-- Most Used Languages by Commit -->
-<a href="https://github.com/Rupayan2005/github-readme-stats">
+<a href="https://github.com/Davygupta47/github-readme-stats">
   <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Davygupta47&theme=highcontrast" alt="Most Used Languages by Commit" />
 </a>
 
