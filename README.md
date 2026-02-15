@@ -50,7 +50,7 @@ me.say_hi()
 <h3 align="left">🧑‍💻⚙️ Languages & Tools</h3>
 </br>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,r,js,ts,ruby,html,css,react,nextjs,vite,tailwind,express,nodejs,mongodb,postgres,mysql,sklearn,tensorflow,pytorch,opencv,npm,yarn,docker,kubernetes,fastapi,postman,git,github,md,gcp,firebase,vscode,pycharm&perline=18" />    
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,r,js,ts,ruby,html,css,react,nextjs,vite,tailwind,express,nodejs,mongodb,postgres,mysql,sklearn,tensorflow,pytorch,opencv,langgraph,docker,kubernetes,fastapi,postman,git,github,md,gcp,firebase,redis,vscode,pycharm&perline=18" />    
 </a>
 
 ## 🎯 Current Mission
