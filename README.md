@@ -21,7 +21,7 @@ class Developer:
         self.role = "AI  & Machine Learning Engineer"
         self.language_spoken = ["English", "Hindi", "Bengali"]
         self.current_focus = "Building intelligent systems to solve real-time problem in a optimized way."
-    
+
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together 🚀")
 
