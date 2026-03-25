@@ -19,7 +19,7 @@ class Developer:
     def __init__(self):
         self.name = "Dwaipayan Dasgupta"
         self.role = "AI  & Machine Learning Engineer"
-        self.language_spoken = ["English", "Hindi", "Bengali"]
+        self.language_spoken = ["English", "Hindi", "Bengali", "German"]
         self.current_focus = "Building intelligent systems to solve real-time problem in a optimized way."
 
     def say_hi(self):
